@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theigow
 - 👀 I’m interested in learn, learn and learn
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
